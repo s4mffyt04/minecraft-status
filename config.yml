@@ -1,8 +1,8 @@
-name: "Hypixel"
+name: "StarMc"
 lang: "pl"
-token: "" # Discord bot token
+token: "1191766434905333902" # Discord bot token
 interval: 10000 # ms
-server: "hypixel.net"
+server: "play.starmcop.fun"
 
 message:
   enabled: true
